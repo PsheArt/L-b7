@@ -18,5 +18,5 @@
 + DateFinish:Datetime - примерное оканчание заказа
 + status:String - статус заказа
 + service:Service(,) - услуга
-+ name_request - название заказа
++ name_request:String - название заказа
 + PriceR:Double - цена заказа
