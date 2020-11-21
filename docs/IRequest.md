@@ -23,4 +23,4 @@
 
 - +GetEmployee(IDRequest:Int):List<[Employee](Employee.md) > - функция, возвращающая список сотрудников ,которые занимаются данным заказом
 
-- +GetService(IDRequest:Int):List<[Service](Service)> - функция, возвращающая список услуг, которые есть в заказе. 
+- +GetService(IDRequest:Int):List<[Service](Service.md)> - функция, возвращающая список услуг, которые есть в заказе. 
