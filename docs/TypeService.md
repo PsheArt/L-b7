@@ -1,7 +1,7 @@
 ## Описание класса TypeService 
 Класс для работы с типами услуг тату-салон
 
-###Атрибуты 
+### Атрибуты 
 + ID:Int
 + Name:String
 + Description:String
