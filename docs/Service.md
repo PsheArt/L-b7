@@ -4,7 +4,7 @@
 
 ### Атрибуты
 + ID:Int
-+ Service:TypeService
++ Service:[TypeService](TypeService.md)
 + PriceS:Double
 + DateStart:Datetime
 + DateFinish:DateTime
