@@ -11,7 +11,7 @@
 + Employee:[Employee](Employee.md)
 ### Описание атрибутов
 + ID:Int - идентификатор услуги
-+ Service:TypeService - тип услуги
++ Service:[TypeService](TypeService.md) - тип услуги
 + PriceS:Double - цена услуги
 + DateStart:Datetime - дата начала
 + DateFinish:DateTime - приблизительная дата окончания
