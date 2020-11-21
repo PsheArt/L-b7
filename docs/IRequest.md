@@ -12,7 +12,7 @@
 
 - +Delete (ID): Int — функция удаляет заказ из БД;
 
-- +FindAll(sortingA:string,sortingB:string, filterA:[Request](Request.md),filterB:[Request](Request.md), count:int, page:int):List<[Request](Request.md)> - функция, возвращающая всех клиентов, удовлетворяющих заданным параметрам.
+- +FindAll(sortingA:string,sortingB:string, filterA:[Request](Request.md),filterB:[Request](Request.md), count:int, page:int):List<[Request](Request.md)> - функция, возвращающая все заказы, удовлетворяющих заданным параметрам.
 Параметры:
 + sorting: string — отвечает, по какому полю будет сортироваться список;
 + sortingА: string — отвечает, по возрастанию или убыванию будут сортироваться элементы;
