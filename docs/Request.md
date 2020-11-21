@@ -4,19 +4,19 @@
 
 ### Атрибуты
 + ID:Int
-+ Client:Client
++ Client:[Client](Client.md)
 + DateStart:DateTime
 + DateFinish:Datetime
 + status:String
-+ service:Service(,)
++ service:[Service(,)](Service.md)
 + name_request
 + PriceR:Double
 ### Описание атрибутов
 + ID:Int - идентификатор в БД
-+ Client:Client - клиент 
++ Client:[Client](Client.md) - клиент 
 + DateStart:DateTime - дата начала заказа
 + DateFinish:Datetime - примерное оканчание заказа
 + status:String - статус заказа
-+ service:Service(,) - услуга
++ service:[Service(,)](Service.md) - услуга
 + name_request:String - название заказа
 + PriceR:Double - цена заказа
