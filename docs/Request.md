@@ -9,7 +9,7 @@
 + DateFinish:Datetime
 + status:String
 + service:[Service(,)](Service.md)
-+ name_request
++ name_request:String
 + PriceR:Double
 ### Описание атрибутов
 + ID:Int - идентификатор в БД
