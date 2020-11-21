@@ -1,38 +1,38 @@
-#Тату-салон
+# Тату-салон
 
-##Схема интерфейсов
- ![Диаграмма](./Диаграммы,схемы/int.jpg)
+## Схема интерфейсов
+ ![Диаграмма](docs/Diagrams/int.jpg)
  
-###***Список интерфейсов***
-- [ISchedule](ISchedule.md) 
+### ***Список интерфейсов***
+- [ISchedule](docs/ISchedule.md) 
 
 
-- [IEmployee](IEmployee.md) 
+- [IEmployee](docs/IEmployee.md) 
 
 
-- [IClient](IClient.md)
+- [IClient](docs/IClient.md)
 
 
-- [IService](IService.md)
+- [IService](docs/IService.md)
 
 
-- [IRequest](IRequest.md)
+- [IRequest](docs/IRequest.md)
 
 
-- [ITypeService](ITypeService.md)
+- [ITypeService](docs/ITypeService.md)
  
-##Диаграммы
+## Диаграммы
 
-+ [Диаграмма размещения](Deployment.md)
++ [Диаграмма размещения](docs/Deployment.md)
 
-+ [Диаграммы последовательности](Sequence.md)
++ [Диаграммы последовательности](docs/Sequence.md)
 
-+ [Диаграммы действий](Activity.md)
++ [Диаграммы действий](docs/Activity.md)
 
-+ [Диаграмма состояния](State.md)
++ [Диаграмма состояния](docs/State.md)
 
-+ [Диаграмма классов](Class.md)
++ [Диаграмма классов](docs/Class.md)
 
-+ [Схема БД](BD.md)
++ [Схема БД](docs/BD.md)
 
-+ [Схема прецедентов](Precedent.md)
++ [Схема прецедентов](docs/Precedent.md)
