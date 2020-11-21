@@ -21,7 +21,7 @@
 + count: int — отвечает, сколько элементов необходимо показать;
 + page: int — отвечает, с какой страницы начинать поиск элементов.
 
-- +GetService(IDEmployee:Int):List< [Service](Service) > - функция, возвращающая список работников, оказывающих услугу.
+- +GetService(IDEmployee:Int):List< [Service](Service.md) > - функция, возвращающая список работников, оказывающих услугу.
 
 - +GetRequest(IDEmployee:Int):List< [Request](Request.md) > - функция, возвращающая список заказов, оказывающие работниками.
 
