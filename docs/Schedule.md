@@ -1,7 +1,7 @@
 ## Описание класса Employee 
 Класс для работы с расписанием сотрудников тату-салон
 
-###Атрибуты 
+### Атрибуты 
 + ID:Int
 + Employee:Employee
 + DateStart:DateTime
