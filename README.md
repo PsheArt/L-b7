@@ -1,7 +1,7 @@
 # Тату-салон
 
 ## Схема интерфейсов
- ![Диаграмма](docs/Diagrams/int.jpg)
+ ![Диаграмма](docs/Diagrams/int.png)
  
 ### ***Список интерфейсов***
 - [ISchedule](docs/ISchedule.md) 
